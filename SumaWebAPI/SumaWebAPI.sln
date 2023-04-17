@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaWebAPI", "SumaWebAPI.csproj", "{2C5C2070-50DE-4A0F-8552-ACAFC57F35A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaWebService", "..\SumaWebService\SumaWebService.csproj", "{B6B668E9-CD2B-4969-921C-3CDF4E6A198D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaWcfService", "..\SumaWcfService\SumaWcfService.csproj", "{617581DE-DCA2-4750-9D28-C49B08FA5124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaClient", "..\SumaClient\SumaClient.csproj", "{7728D106-E0A7-442F-A697-AEDD57627DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaApiClient", "..\SumaApiClient\SumaApiClient.csproj", "{9FF7E072-FF44-4D75-A0FF-D7D1C9590026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaWcfClient", "..\SumaWcfClient\SumaWcfClient.csproj", "{DF760014-FE1F-4105-A7CA-5532B080EBB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5C2070-50DE-4A0F-8552-ACAFC57F35A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5C2070-50DE-4A0F-8552-ACAFC57F35A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5C2070-50DE-4A0F-8552-ACAFC57F35A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5C2070-50DE-4A0F-8552-ACAFC57F35A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B668E9-CD2B-4969-921C-3CDF4E6A198D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B668E9-CD2B-4969-921C-3CDF4E6A198D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B668E9-CD2B-4969-921C-3CDF4E6A198D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B668E9-CD2B-4969-921C-3CDF4E6A198D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617581DE-DCA2-4750-9D28-C49B08FA5124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617581DE-DCA2-4750-9D28-C49B08FA5124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617581DE-DCA2-4750-9D28-C49B08FA5124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617581DE-DCA2-4750-9D28-C49B08FA5124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7728D106-E0A7-442F-A697-AEDD57627DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7728D106-E0A7-442F-A697-AEDD57627DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7728D106-E0A7-442F-A697-AEDD57627DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7728D106-E0A7-442F-A697-AEDD57627DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF7E072-FF44-4D75-A0FF-D7D1C9590026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF7E072-FF44-4D75-A0FF-D7D1C9590026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF7E072-FF44-4D75-A0FF-D7D1C9590026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF7E072-FF44-4D75-A0FF-D7D1C9590026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF760014-FE1F-4105-A7CA-5532B080EBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF760014-FE1F-4105-A7CA-5532B080EBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF760014-FE1F-4105-A7CA-5532B080EBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF760014-FE1F-4105-A7CA-5532B080EBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727921B4-CBFA-4E37-A9E4-7B143AEAA8A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\CASA\Desktop\SumaWcfService\bin\SumaWcfService.dll.config
+C:\Users\CASA\Desktop\SumaWcfService\bin\SumaWcfService.dll
+C:\Users\CASA\Desktop\SumaWcfService\bin\SumaWcfService.pdb
+C:\Users\CASA\Desktop\SumaWcfService\obj\Debug\SumaWcfService.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\SumaWcfService\obj\Debug\SumaWcfService.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\SumaWcfService\obj\Debug\SumaWcfService.dll
+C:\Users\CASA\Desktop\SumaWcfService\obj\Debug\SumaWcfService.pdb

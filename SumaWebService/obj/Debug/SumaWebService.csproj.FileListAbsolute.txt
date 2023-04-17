@@ -1,0 +1,7 @@
+C:\Users\CASA\Desktop\SumaWebService\bin\SumaWebService.dll.config
+C:\Users\CASA\Desktop\SumaWebService\bin\SumaWebService.dll
+C:\Users\CASA\Desktop\SumaWebService\bin\SumaWebService.pdb
+C:\Users\CASA\Desktop\SumaWebService\obj\Debug\SumaWebService.csproj.AssemblyReference.cache
+C:\Users\CASA\Desktop\SumaWebService\obj\Debug\SumaWebService.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Desktop\SumaWebService\obj\Debug\SumaWebService.dll
+C:\Users\CASA\Desktop\SumaWebService\obj\Debug\SumaWebService.pdb
